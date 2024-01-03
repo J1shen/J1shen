@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J1shen
-- 👀 I’m interested in AIGC, LLM, CV and ...
+- 👀 I’m interested in AIGC, HCI, Multi-modality and ...
 - 🌱 I’m currently learning PLC,DCS(Lol)
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 Email me at jyshen44@gmail.com
